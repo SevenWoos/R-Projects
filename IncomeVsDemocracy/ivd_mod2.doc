@@ -1,0 +1,17 @@
+
+<table style="text-align:center"><caption><strong>Model 2 Results</strong></caption>
+<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td>fhpolr</td></tr>
+<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">fhpolr.lag</td><td>1.000<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.000)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">lrgdppc.lag</td><td>0.000</td></tr>
+<tr><td style="text-align:left"></td><td>(0.000)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>429</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>1.000</td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>1.000</td></tr>
+<tr><td style="text-align:left">F Statistic</td><td>20,547,300,914,332,790,350,484,080,402,224.000<sup>***</sup> (df = 2; 421)</td></tr>
+<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>

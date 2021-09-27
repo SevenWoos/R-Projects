@@ -56,7 +56,6 @@ stargazer(mod2,
           type = "html", 
           out = "ivd_mod2.doc", 
           title = "Model 2 Results", 
-          add.lines = 
           align=TRUE)
 
 #Model 3: Add BOTH year and country dummies. Fixed Effects.
